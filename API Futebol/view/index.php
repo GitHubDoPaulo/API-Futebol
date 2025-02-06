@@ -43,7 +43,7 @@
             </div>
             <div class="col-md-6">
                 <label>Buscar por Time (ID):</label>
-                <input type="text" name="team" class="form-control" placeholder="Digite o ID do Time" value="<?= $teamId ?>" oninput="toggleCompetitionSelect()">
+                <input type="number" name="team" class="form-control" placeholder="Digite o ID do Time" value="<?= $teamId ?>" oninput="toggleCompetitionSelect()">
             </div>
         </div>
         <button type="submit" class="btn btn-primary mt-3">Buscar</button>
