@@ -17,7 +17,7 @@ Este projeto foi desenvolvido para ser executado em um ambiente local utilizando
 
 2. **Execução do Projeto**:
    - Inicie o XAMPP e ative os módulos `Apache`.
-   - Abra o navegador e acesse o projeto através do endereço `http://localhost/API Futebol/public.
+   - Abra o navegador e acesse o projeto através do endereço `http://localhost/API%20Futebol/public.
 
 ### Sobre o Banco de Dados
 
