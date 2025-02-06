@@ -29,8 +29,9 @@ Este projeto foi desenvolvido para ser executado em um ambiente local utilizando
    - A API utilizada neste projeto **não suporta muitas requisições simultâneas** e pode apresentar instabilidades, como travamentos e lentidão.
    - Em caso de falha ou demora no carregamento das informações, é recomendado realizar alguns **reloads** na página para que os dados sejam exibidos corretamente.
 
-2. **Pesquisa por Nome de Time**:
-   - Devido às limitações da API, **não foi possível implementar a funcionalidade de pesquisa de time por nome**. A API não permite essa consulta diretamente, e o excesso de requisições poderia comprometer a estabilidade do sistema.
+2. **Pesquisa por ID de Time**:
+   - Devido às limitações da API, **não foi possível implementar a funcionalidade de pesquisa de time por nome**. A API não permite essa consulta diretamente, e o excesso de requisições compromete a estabilidade do sistema.
+   - Link do site da API para consultar IDs dos times, ligas, etc - https://www.football-data.org/coverage 
    - Caso exista uma solução bacana deste problema, estou muito curioso para aprender.
 
 3. **Busca por ID de Times**:
